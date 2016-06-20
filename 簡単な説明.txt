@@ -1,4 +1,8 @@
-�_�E�����[�h���Ă���wikipwdia�₱�ƃo���N�̃f�[�^�������Ŏg�p�ł���悤��
-����v���O�����ł��B->makeword3.rb
+ダウンロードしてきたwikipwdiaやことバンクのデータを辞書で使用できるように
+するプログラムです。->makeword3.rb
+また使用する際はwikipediaのデータとことバンクのデータをDLしてきてください。
+リンク->https://dumps.wikimedia.org/jawiki/latest/jawiki-latest-all-titles-in-ns0
+ことばんくのはファイルとしていれてあります
 
-1�Ԗڂ̉ۑ�͂����ЂƂ𓚂�����܂��B
+
+1番目の課題はもうひとつ解答があります。
